@@ -74,7 +74,8 @@
     [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (19).wav",
         52720
-    ],[
+    ],
+    [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (20).wav",
         59480
     ],
@@ -121,7 +122,8 @@
     [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (31).wav.wav",
         52720
-    ],[
+    ],
+    [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (32).wav",
         52720
     ],
@@ -148,7 +150,8 @@
     [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (38).wav",
         52720
-    ],[
+    ],
+    [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (39).wav",
         59480
     ],
@@ -156,7 +159,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (40).wav",
         58080
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (41).wav",
         39840
     ],
@@ -196,7 +199,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (50).wav",
         88640
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (51).wav",
         39840
     ],
@@ -236,7 +239,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (60).wav",
         88640
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (61).wav",
         39840
     ],
@@ -276,7 +279,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (70).wav",
         88640
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (71).wav",
         39840
     ],
@@ -316,7 +319,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (80).wav",
         88640
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (81).wav",
         39840
     ],
@@ -356,7 +359,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (90).wav",
         88640
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (91).wav",
         39840
     ],
@@ -396,7 +399,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_1/lev (100).wav",
         88640
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_2/lev (101).wav",
         39840
     ],
@@ -436,7 +439,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_2/lev (110).wav",
         88640
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_2/lev (111).wav",
         39840
     ],
@@ -476,7 +479,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_2/lev (120).wav",
         88640
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_2/lev (121).wav",
         39840
     ],
@@ -516,7 +519,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_2/lev (130).wav",
         88640
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_2/lev (131).wav",
         39840
     ],
@@ -556,7 +559,7 @@
         "/kaggle/working/svoice/dataset/debug/s3_2/lev (140).wav",
         88640
     ],
-    [19
+    [
         "/kaggle/working/svoice/dataset/debug/s3_2/lev (141).wav",
         39840
     ],
