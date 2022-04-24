@@ -89,7 +89,10 @@ class Validset:
         for s_info in s_infos:
             self.sets.append(Audioset(sort(s_info)))
         for s in self.sets:
+            print('s',s)
+            print('mix_set',self.mix_set)
             assert len(s) == len(self.mix_set)
+            
 
     def __getitem__(self, index):
         mix_sig = self.mix_set[index]
