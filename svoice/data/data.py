@@ -58,8 +58,6 @@ class Trainset:
         for s in self.sets:
             print('Length_s',len(s))
             print('length_self.mix_set',len(self.mix_set))
-            print('S_is',s)
-            print('self.mix_set_is',self.mix_set)
             assert len(s) == len(self.mix_set)
 
     def __getitem__(self, index):
