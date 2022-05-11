@@ -28,7 +28,8 @@ def sort(infos): return sorted(
 
 
 class Trainset:
-    def __init__(self, json_dir, sample_rate=16000, segment=4.0, stride=1.0, pad=True):
+    def __init__(self, json_dir, sample_rate=32000, segment=4.0, stride=1.0, pad=True):
+    #def __init__(self, json_dir, sample_rate=16000, segment=4.0, stride=1.0, pad=True):
         mix_json = os.path.join(json_dir, 'mix.json')
         s_jsons = list()
         s_infos = list()
