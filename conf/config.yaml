@@ -5,7 +5,7 @@ defaults:
 
 # Dataset related
 sample_rate: 44100
-segment: 4
+segment: 2
 stride: 1    # in seconds, how much to stride between training examples
 pad: true   # if training sample is too short, pad it
 cv_maxlen: 8
@@ -60,7 +60,7 @@ plateau:
 model: swave # either demucs or dwave
 swave:
   N: 128
-  L: 8
+  L: 16
   H: 128
   R: 6
   C: 4
