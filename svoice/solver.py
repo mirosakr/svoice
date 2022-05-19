@@ -124,13 +124,13 @@ class Solver(object):
                              f'Time {time.time() - start:.2f}s | Train Loss {train_loss:.5f}'))
 
             # Cross validation
-            #logger.info('-' * 70)
-            #logger.info('Cross validation...')
-            #self.model.eval()  # Turn off Batchnorm & Dropout
-            #with torch.no_grad():
-              #  valid_loss = self._run_one_epoch(epoch, cross_valid=True)
-            #logger.info(bold(f'Valid Summary | End of Epoch {epoch + 1} | '
-                         #    f'Time {time.time() - start:.2f}s | Valid Loss {valid_loss:.5f}'))
+            logger.info('-' * 70)
+            logger.info('Cross validation...')
+            self.model.eval()  # Turn off Batchnorm & Dropout
+            with torch.no_grad():
+                valid_loss = self._run_one_epoch(epoch, cross_valid=True)
+            logger.info(bold(f'Valid Summary | End of Epoch {epoch + 1} | '
+                             f'Time {time.time() - start:.2f}s | Valid Loss {valid_loss:.5f}'))
 
             # learning rate scheduling
             if self.sched:
