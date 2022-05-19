@@ -9,7 +9,7 @@ segment: 4
 stride: 1    # in seconds, how much to stride between training examples
 pad: true   # if training sample is too short, pad it
 cv_maxlen: 8
-validfull: 1   # use entire samples at valid
+validfull: 0   # use entire samples at valid
 
 # Logging and printing, and does not impact training
 num_prints: 5
