@@ -202,7 +202,7 @@ class Solver(object):
             cnt = len(estimate_source)
             # apply a loss function after each layer
             #with torch.autograd.set_detect_anomaly(True):
-                for c_idx, est_src in enumerate(estimate_source):
+            for c_idx, est_src in enumerate(estimate_source):
                     coeff = ((c_idx+1)*(1/cnt))
                     loss_i = 0
                     # SI-SNR loss
