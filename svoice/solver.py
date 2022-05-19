@@ -203,13 +203,13 @@ class Solver(object):
             # apply a loss function after each layer
             #with torch.autograd.set_detect_anomaly(True):
             for c_idx, est_src in enumerate(estimate_source):
-                    coeff = ((c_idx+1)*(1/cnt))
-                    loss_i = 0
-                    # SI-SNR loss
-                    sisnr_loss, snr, est_src, reorder_est_src = cal_loss(
-                        sources, est_src, lengths)
-                    loss += (coeff * sisnr_loss)
-                loss /= len(estimate_source)
+                coeff = ((c_idx+1)*(1/cnt))
+                loss_i = 0
+                # SI-SNR loss
+                sisnr_loss, snr, est_src, reorder_est_src = cal_loss(
+                    sources, est_src, lengths)
+                loss += (coeff * sisnr_loss)
+            loss /= len(estimate_source)
 
                 if not cross_valid:
                     # optimize model in training mode
