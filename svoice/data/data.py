@@ -98,6 +98,8 @@ class Validset:
     def __getitem__(self, index):
         mix_sig = self.mix_set[index]
         tgt_sig = [self.sets[i][index] for i in range(len(self.sets))]
+        print('mix_sig',mix_sig)
+        print('tgt_sig',tgt_sig)
         return self.mix_set[index], torch.LongTensor([mix_sig.shape[0]]), torch.stack(tgt_sig)
 
     def __len__(self):
