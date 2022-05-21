@@ -201,23 +201,23 @@ class Solver(object):
             loss = 0
             cnt = len(estimate_source)
             # apply a loss function after each layer
-            #with torch.autograd.set_detect_anomaly(True):
-            for c_idx, est_src in enumerate(estimate_source):
-                coeff = ((c_idx+1)*(1/cnt))
-                loss_i = 0
-                # SI-SNR loss
-                sisnr_loss, snr, est_src, reorder_est_src = cal_loss(
-                    sources, est_src, lengths)
-                loss += (coeff * sisnr_loss)
-            loss /= len(estimate_source)
+             with torch.autograd.set_detect_anomaly(True):
+                for c_idx, est_src in enumerate(estimate_source):
+                    coeff = ((c_idx+1)*(1/cnt))
+                    loss_i = 0
+                    # SI-SNR loss
+                    sisnr_loss, snr, est_src, reorder_est_src = cal_loss(
+                        sources, est_src, lengths)
+                    loss += (coeff * sisnr_loss)
+                loss /= len(estimate_source)
 
-            if not cross_valid:
-                # optimize model in training mode
-                self.optimizer.zero_grad()
-                loss.backward()
-                torch.nn.utils.clip_grad_norm_(self.model.parameters(),
+                if not cross_valid:
+                    # optimize model in training mode
+                    self.optimizer.zero_grad()
+                    loss.backward()
+                    torch.nn.utils.clip_grad_norm_(self.model.parameters(),
                                                    self.max_norm)
-                self.optimizer.step()
+                    self.optimizer.step()
 
             total_loss += loss.item()
             logprog.update(loss=format(total_loss / (i + 1), ".5f"))
