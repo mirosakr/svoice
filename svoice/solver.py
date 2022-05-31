@@ -191,6 +191,8 @@ class Solver(object):
         logprog = LogProgress(logger, data_loader,
                               updates=self.num_prints, name=name)
         for i, data in enumerate(logprog):
+            print('index', i)
+            print('data', data)
             mixture, lengths, sources = [x.to(self.device) for x in data]
             estimate_source = self.dmodel(mixture)
 
