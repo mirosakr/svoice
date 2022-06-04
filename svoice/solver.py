@@ -209,7 +209,7 @@ class Solver(object):
                 sisnr_loss, snr, est_src, reorder_est_src = cal_loss(
                     sources, est_src, lengths)
                 loss += (coeff * sisnr_loss)
-            loss /= len(estimate_source)
+            loss /= (len(estimate_source) + 1e-12)
 
             if not cross_valid:
                 # optimize model in training mode
