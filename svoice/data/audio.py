@@ -68,7 +68,7 @@ class Audioset:
             if index >= examples:
                 index -= examples
                 continue
-            num_frames = 0
+            num_frames = -1
             frame_offset = 0
             if self.length is not None:
                 frame_offset = self.stride * index
