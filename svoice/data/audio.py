@@ -75,7 +75,7 @@ class Audioset:
                 num_frames = self.length
             #  out = th.Tensor(sf.read(str(file), start=offset, frames=num_frames)[0]).unsqueeze(0)
             out = torchaudio.load(str(file), offset=offset,
-                                  num_frames=num_frames)[-1]
+                                  num_frames=num_frames)[0]
             if self.augment:
                 out = self.augment(out.squeeze(0).numpy()).unsqueeze(0)
             if num_frames:
