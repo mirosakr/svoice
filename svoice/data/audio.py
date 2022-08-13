@@ -68,13 +68,13 @@ class Audioset:
             if index >= examples:
                 index -= examples
                 continue
-            num_frames = -1
-            frame_offset = 0
+            num_frames = 0
+            offset = 0
             if self.length is not None:
-                frame_offset = self.stride * index
+                offset = self.stride * index
                 num_frames = self.length
             #  out = th.Tensor(sf.read(str(file), start=offset, frames=num_frames)[0]).unsqueeze(0)
-            out = torchaudio.load(str(file), frame_offset=frame_offset,
+            out = torchaudio.load(str(file), offset=offset,
                                   num_frames=num_frames)[0]
             if self.augment:
                 out = self.augment(out.squeeze(0).numpy()).unsqueeze(0)
