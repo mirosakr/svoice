@@ -45,7 +45,7 @@ stft_loss: False
 stft_sc_factor: .5
 stft_mag_factor: .5
 epochs: 100
-batch_size: 2
+batch_size: 4
 max_norm: 5
 # learning rate scheduling
 lr_sched: step # can be either step or plateau
@@ -60,7 +60,7 @@ plateau:
 model: swave # either demucs or dwave
 swave:
   N: 128
-  L: 8
+  L: 16
   H: 128
   R: 6
   C: 3
