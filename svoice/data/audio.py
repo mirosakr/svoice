@@ -75,8 +75,7 @@ class Audioset:
                 num_frames = self.length
             try:    
             #out = th.Tensor(sf.read(str(file), start=offset, frames=num_frames)[0]).unsqueeze(0)
-                out = torchaudio.load(str(file), offset=offset,
-                                  num_frames=num_frames)[0]
+                out = torchaudio.load(str(file), offset=offset, num_frames=num_frames)[0]
             except Exception:
                 print(file, examples, offset); raise
                 
