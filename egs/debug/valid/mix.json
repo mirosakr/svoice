@@ -1,602 +1,801 @@
 [
+    [   "/kaggle/input/datas12/spk_1 (1801).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1802).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1803).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1804).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1805).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1806).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1807).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1808).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1809).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1810).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1811).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1812).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1813).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1814).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1815).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1816).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1817).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1818).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1819).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1820).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1821).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1822).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1823).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1824).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1825).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1826).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1827).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1828).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1829).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1830).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1831).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1832).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1833).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1834).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1835).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1836).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1837).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1838).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1839).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1840).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1841).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1842).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1843).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1844).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1845).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1846).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1847).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1848).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1849).wav",
+        56000
+    ],
+    [
+        "/kaggle/input/datas12/spk_1 (1850).wav",
+        56000
+    ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1000.wav",
+        "/kaggle/input/datas12/spk_1 (1851).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1001.wav",
+        "/kaggle/input/datas12/spk_1 (1852).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1002.wav",
+        "/kaggle/input/datas12/spk_1 (1853).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1003.wav",
+        "/kaggle/input/datas12/spk_1 (1854).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1004.wav",
+        "/kaggle/input/datas12/spk_1 (1855).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1005.wav",
+        "/kaggle/input/datas12/spk_1 (1856).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1006.wav",
+        "/kaggle/input/datas12/spk_1 (1857).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1007.wav",
+        "/kaggle/input/datas12/spk_1 (1858).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1008.wav",
+        "/kaggle/input/datas12/spk_1 (1859).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1009.wav",
+        "/kaggle/input/datas12/spk_1 (1860).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1010.wav",
+        "/kaggle/input/datas12/spk_1 (1861).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1011.wav",
+        "/kaggle/input/datas12/spk_1 (1862).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1012.wav",
+        "/kaggle/input/datas12/spk_1 (1863).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1013.wav",
+        "/kaggle/input/datas12/spk_1 (1864).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1014.wav",
+        "/kaggle/input/datas12/spk_1 (1865).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1015.wav",
+        "/kaggle/input/datas12/spk_1 (1866).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1016.wav",
+        "/kaggle/input/datas12/spk_1 (1867).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1017.wav",
+        "/kaggle/input/datas12/spk_1 (1868).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1018.wav",
+        "/kaggle/input/datas12/spk_1 (1869).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1019.wav",
+        "/kaggle/input/datas12/spk_1 (1870).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1020.wav",
+        "/kaggle/input/datas12/spk_1 (1871).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1021.wav",
+        "/kaggle/input/datas12/spk_1 (1872).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1022.wav",
+        "/kaggle/input/datas12/spk_1 (1873).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1023.wav",
+        "/kaggle/input/datas12/spk_1 (1874).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1024.wav",
+        "/kaggle/input/datas12/spk_1 (1875).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1025.wav",
+        "/kaggle/input/datas12/spk_1 (1876).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1026.wav",
+        "/kaggle/input/datas12/spk_1 (1877).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1027.wav",
+        "/kaggle/input/datas12/spk_1 (1878).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1028.wav",
+        "/kaggle/input/datas12/spk_1 (1879).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1029.wav",
+        "/kaggle/input/datas12/spk_1 (1880).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1030.wav",
+        "/kaggle/input/datas12/spk_1 (1881).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1031.wav",
+        "/kaggle/input/datas12/spk_1 (1882).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1032.wav",
+        "/kaggle/input/datas12/spk_1 (1883).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1033.wav",
+        "/kaggle/input/datas12/spk_1 (1884).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1034.wav",
+        "/kaggle/input/datas12/spk_1 (1885).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1035.wav",
+        "/kaggle/input/datas12/spk_1 (1886).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1036.wav",
+        "/kaggle/input/datas12/spk_1 (1887).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1037.wav",
+        "/kaggle/input/datas12/spk_1 (1888).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1038.wav",
+        "/kaggle/input/datas12/spk_1 (1889).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1039.wav",
+        "/kaggle/input/datas12/spk_1 (1890).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1040.wav",
+        "/kaggle/input/datas12/spk_1 (1891).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1041.wav",
+        "/kaggle/input/datas12/spk_1 (1892).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1042.wav",
+        "/kaggle/input/datas12/spk_1 (1893).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1043.wav",
+        "/kaggle/input/datas12/spk_1 (1894).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1044.wav",
+        "/kaggle/input/datas12/spk_1 (1895).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1045.wav",
+        "/kaggle/input/datas12/spk_1 (1896).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1046.wav",
+        "/kaggle/input/datas12/spk_1 (1897).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1047.wav",
+        "/kaggle/input/datas12/spk_1 (1898).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1048.wav",
+        "/kaggle/input/datas12/spk_1 (1899).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1049.wav",
+        "/kaggle/input/datas12/spk_1 (1900).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output1050.wav",
+        "/kaggle/input/datas12/spk_1 (1901).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output901.wav",
+        "/kaggle/input/datas12/spk_1 (1902).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output902.wav",
+        "/kaggle/input/datas12/spk_1 (1903).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output903.wav",
+        "/kaggle/input/datas12/spk_1 (1904).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output904.wav",
+        "/kaggle/input/datas12/spk_1 (1905).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output905.wav",
+        "/kaggle/input/datas12/spk_1 (1906).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output906.wav",
+        "/kaggle/input/datas12/spk_1 (1907).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output907.wav",
+        "/kaggle/input/datas12/spk_1 (1908).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output908.wav",
+        "/kaggle/input/datas12/spk_1 (1909).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output909.wav",
+        "/kaggle/input/datas12/spk_1 (1910).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output910.wav",
+        "/kaggle/input/datas12/spk_1 (1911).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output911.wav",
+        "/kaggle/input/datas12/spk_1 (1912).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output912.wav",
+        "/kaggle/input/datas12/spk_1 (1913).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output913.wav",
+        "/kaggle/input/datas12/spk_1 (1914).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output914.wav",
+        "/kaggle/input/datas12/spk_1 (1915).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output915.wav",
+        "/kaggle/input/datas12/spk_1 (1916).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output916.wav",
+        "/kaggle/input/datas12/spk_1 (1917).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output917.wav",
+        "/kaggle/input/datas12/spk_1 (1918).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output918.wav",
+        "/kaggle/input/datas12/spk_1 (1919).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output919.wav",
+        "/kaggle/input/datas12/spk_1 (1920).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output920.wav",
+        "/kaggle/input/datas12/spk_1 (1921).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output921.wav",
+        "/kaggle/input/datas12/spk_1 (1922).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output922.wav",
+        "/kaggle/input/datas12/spk_1 (1923).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output923.wav",
+        "/kaggle/input/datas12/spk_1 (1924).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output924.wav",
+        "/kaggle/input/datas12/spk_1 (1925).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output925.wav",
+        "/kaggle/input/datas12/spk_1 (1926).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output926.wav",
+        "/kaggle/input/datas12/spk_1 (1927).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output927.wav",
+        "/kaggle/input/datas12/spk_1 (1928).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output928.wav",
+        "/kaggle/input/datas12/spk_1 (1929).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output929.wav",
+        "/kaggle/input/datas12/spk_1 (1930).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output930.wav",
+        "/kaggle/input/datas12/spk_1 (1931).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output931.wav",
+        "/kaggle/input/datas12/spk_1 (1932).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output932.wav",
+        "/kaggle/input/datas12/spk_1 (1933).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output933.wav",
+        "/kaggle/input/datas12/spk_1 (1934).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output934.wav",
+        "/kaggle/input/datas12/spk_1 (1935).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output935.wav",
+        "/kaggle/input/datas12/spk_1 (1936).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output936.wav",
+        "/kaggle/input/datas12/spk_1 (1937).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output937.wav",
+        "/kaggle/input/datas12/spk_1 (1938).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output938.wav",
+        "/kaggle/input/datas12/spk_1 (1939).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output939.wav",
+        "/kaggle/input/datas12/spk_1 (1940).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output940.wav",
+        "/kaggle/input/datas12/spk_1 (1941).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output941.wav",
+        "/kaggle/input/datas12/spk_1 (1942).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output942.wav",
+        "/kaggle/input/datas12/spk_1 (1943).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output943.wav",
+        "/kaggle/input/datas12/spk_1 (1944).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output944.wav",
+        "/kaggle/input/datas12/spk_1 (1945).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output945.wav",
+        "/kaggle/input/datas12/spk_1 (1946).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output946.wav",
+        "/kaggle/input/datas12/spk_1 (1947).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output947.wav",
+        "/kaggle/input/datas12/spk_1 (1948).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output948.wav",
+        "/kaggle/input/datas12/spk_1 (1949).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output949.wav",
+        "/kaggle/input/datas12/spk_1 (1950).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output950.wav",
+        "/kaggle/input/datas12/spk_1 (1951).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output951.wav",
+        "/kaggle/input/datas12/spk_1 (1952).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output952.wav",
+        "/kaggle/input/datas12/spk_1 (1953).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output953.wav",
+        "/kaggle/input/datas12/spk_1 (1954).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output954.wav",
+        "/kaggle/input/datas12/spk_1 (1955).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output955.wav",
+        "/kaggle/input/datas12/spk_1 (1956).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output956.wav",
+        "/kaggle/input/datas12/spk_1 (1957).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output957.wav",
+        "/kaggle/input/datas12/spk_1 (1958).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output958.wav",
+        "/kaggle/input/datas12/spk_1 (1959).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output959.wav",
+        "/kaggle/input/datas12/spk_1 (1960).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output960.wav",
+        "/kaggle/input/datas12/spk_1 (1961).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output961.wav",
+        "/kaggle/input/datas12/spk_1 (1962).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output962.wav",
+        "/kaggle/input/datas12/spk_1 (1963).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output963.wav",
+        "/kaggle/input/datas12/spk_1 (1964).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output964.wav",
+        "/kaggle/input/datas12/spk_1 (1965).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output965.wav",
+        "/kaggle/input/datas12/spk_1 (1966).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output966.wav",
+        "/kaggle/input/datas12/spk_1 (1967).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output967.wav",
+        "/kaggle/input/datas12/spk_1 (1968).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output968.wav",
+        "/kaggle/input/datas12/spk_1 (1969).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output969.wav",
+        "/kaggle/input/datas12/spk_1 (1970).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output970.wav",
+        "/kaggle/input/datas12/spk_1 (1971).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output971.wav",
+        "/kaggle/input/datas12/spk_1 (1972).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output972.wav",
+        "/kaggle/input/datas12/spk_1 (1973).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output973.wav",
+        "/kaggle/input/datas12/spk_1 (1974).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output974.wav",
+        "/kaggle/input/datas12/spk_1 (1975).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output975.wav",
+        "/kaggle/input/datas12/spk_1 (1976).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output976.wav",
+        "/kaggle/input/datas12/spk_1 (1977).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output977.wav",
+        "/kaggle/input/datas12/spk_1 (1978).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output978.wav",
+        "/kaggle/input/datas12/spk_1 (1979).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output979.wav",
+        "/kaggle/input/datas12/spk_1 (1980).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output980.wav",
+        "/kaggle/input/datas12/spk_1 (1981).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output981.wav",
+        "/kaggle/input/datas12/spk_1 (1982).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output982.wav",
+        "/kaggle/input/datas12/spk_1 (1983).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output983.wav",
+        "/kaggle/input/datas12/spk_1 (1984).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output984.wav",
+        "/kaggle/input/datas12/spk_1 (1985).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output985.wav",
+        "/kaggle/input/datas12/spk_1 (1986).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output986.wav",
+        "/kaggle/input/datas12/spk_1 (1987).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output987.wav",
+        "/kaggle/input/datas12/spk_1 (1988).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output988.wav",
+        "/kaggle/input/datas12/spk_1 (1989).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output989.wav",
+        "/kaggle/input/datas12/spk_1 (1990).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output990.wav",
+        "/kaggle/input/datas12/spk_1 (1991).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output991.wav",
+        "/kaggle/input/datas12/spk_1 (1992).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output992.wav",
+        "/kaggle/input/datas12/spk_1 (1993).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output993.wav",
+        "/kaggle/input/datas12/spk_1 (1994).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output994.wav",
+        "/kaggle/input/datas12/spk_1 (1995).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output995.wav",
+        "/kaggle/input/datas12/spk_1 (1996).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output996.wav",
+        "/kaggle/input/datas12/spk_1 (1997).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output997.wav",
+        "/kaggle/input/datas12/spk_1 (1998).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output998.wav",
+        "/kaggle/input/datas12/spk_1 (1999).wav",
         56000
     ],
     [
-        "/kaggle/working/valid-3spk/mix3_valid/output999.wav",
+        "/kaggle/input/datas12/spk_1 (2000).wav",
         56000
-    ]
+    ]    
 ]
