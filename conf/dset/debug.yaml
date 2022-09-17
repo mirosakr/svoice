@@ -1,7 +1,7 @@
 
 # @package dset
 train: ./egs/debug/tr
-valid: ./egs/debug/tr
-test: ./egs/debug/tr
+valid: ./egs/debug/valid
+test: ./egs/debug/valid
 mix_json: ./egs/debug/tr/mix.json
 mix_dir:
