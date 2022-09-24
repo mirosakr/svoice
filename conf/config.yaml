@@ -63,7 +63,7 @@ swave:
   L: 8
   H: 128
   R: 6
-  C: 3
+  C: 2
   input_normalize: False
 
 # Experiment launching, distributed
