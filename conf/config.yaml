@@ -13,8 +13,8 @@ validfull: 1   # use entire samples at valid
 
 # Logging and printing, and does not impact training
 num_prints: 5
-#device: cuda
-device: TPU
+device: cuda
+#device: TPU
 num_workers: 2
 verbose: 0
 show: 0   # just show the model and its size and exit
@@ -68,7 +68,7 @@ swave:
   input_normalize: False
 
 # Experiment launching, distributed
-ddp: false
+ddp: True
 ddp_backend: nccl
 rendezvous_file: ./rendezvous
 
