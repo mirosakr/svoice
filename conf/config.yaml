@@ -68,7 +68,7 @@ swave:
   input_normalize: False
 
 # Experiment launching, distributed
-ddp: True
+ddp: False
 ddp_backend: nccl
 rendezvous_file: ./rendezvous
 
